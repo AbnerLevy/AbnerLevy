@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Backend Development & Database Management<br>🎯 Goals: Transitioning into a Junior Developer role and building scalable applications<br>🎲 Fun fact: After 10 years solving problems in IT Support, I decided it was time to start creating them (via code, of course!)<br><br>Check out my pinned repositories below to see what I've been building!</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Backend Development & Database Management<br>🎯 Goals: Transitioning into a Junior Developer role and building scalable applications<br>🎲 Fun fact: After 10 years solving problems in IT Support, I decided it was time to start creating them (via code, of course!)<br><br><h4>Check out my pinned repositories below to see what I've been building!</h4></p>
 
 ###
 
