@@ -1,18 +1,64 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Hi, I'm Abner Levy
 
-###
+### Software Engineering Student | Aspiring Backend Developer | Brazil 🇧🇷
 
-<p align="left">My name is Abner Levy and I'm a Software Engineering Student, from Brazil.</p>
+I'm **Abner Levy**, a Software Engineering student from Brazil with **10+ years of experience in IT Support**, currently transitioning into Software Development.
 
-###
+Throughout my career, I've worked solving technical problems, supporting users, and maintaining IT environments. Today, I'm applying that experience to learn **Backend Development**, **Database Management**, and **Software Engineering**, with the goal of building scalable and reliable applications.
 
-<h2 align="left">About me</h2>
+---
 
-###
+## 👨‍💻 About Me
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Backend Development & Database Management<br>🎯 Goals: Transitioning into a Junior Developer role and building scalable applications<br>🎲 Fun fact: After 10 years solving problems in IT Support, I decided it was time to start creating them (via code, of course!)<br><br><h4>Check out my pinned repositories below to see what I've been building!</h4></p>
+✨ Creating bugs since 2015
 
-###
+📚 Currently studying Backend Development, Database Management, and Software Engineering
+
+🎯 Looking for opportunities as a Junior Backend Developer
+
+🚀 Focused on building practical projects and strengthening my development skills
+
+🎲 Fun fact: After more than 10 years solving problems in IT Support, I decided it was time to start creating them (through code, of course 😄)
+
+---
+
+## 🚀 What I'm Working On
+
+- Building backend applications with JavaScrip and Python
+- Improving SQL and database modeling skills
+- Learning software architecture and clean code principles
+- Developing portfolio projects to support my transition into software development
+- Expanding my knowledge of APIs, backend systems, and scalable applications
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+- JavaScript
+- PHP
+- Python
+- SQL
+
+### Front-End
+
+- HTML5
+- CSS3
+
+### Databases
+
+- MySQL
+- SQL Server
+
+### Currently Learning
+
+- Backend Development
+- REST APIs
+- Database Design
+- Software Architecture
+- Clean Code
+- Object-Oriented Programming
 
 <h2 align="left">I'm studying with</h2>
 
@@ -35,3 +81,19 @@
 </div>
 
 ###
+---
+
+## 🎯 Career Goal
+
+My goal is to secure a Junior Backend Developer position where I can contribute to real-world projects, collaborate with experienced developers, and continue growing as a software engineer.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [ LinkedIn AbnerLevy](https://www.linkedin.com/in/abnerlevy/)
+- Email: abner_levy@hotmail.com
+
+---
+
+⭐ Feel free to explore my repositories and follow my learning journey!
