@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=shark&height=400&color=0%3A464A70%2C50%3ABD613C%2C100%3A9B5E46&section=header&reversal=false&text=Ol%C3%A1%2C+eu+sou+o+Abner+Levy&textBg=false&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&strokeWidth=1&desc=Desenvolvedor+Full+Stack+%7C+Estudante+de+An%C3%A1lise+e+Des.+de+Sistemas&descSize=25&descAlign=50&descAlignY=67)
+![header](https://capsule-render.vercel.app/api?type=shark&height=300&color=0%3A464A70%2C50%3ABD613C%2C100%3A9B5E46&section=header&reversal=false&text=Ol%C3%A1%2C+eu+sou+o+Abner+Levy&textBg=false&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=30&animation=twinkling&rotate=0&strokeWidth=1&desc=Desenvolvedor+Full+Stack+%7C+Estudante+de+An%C3%A1lise+e+Des.+de+Sistemas&descSize=25&descAlign=50&descAlignY=50)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=38&duration=3500&pause=1000&center=true&width=600&lines=TypeScript+%7C+JavaScript+%7C+Angular;Python+%7C+SQL%7C+MongoDB+;Node.js+%7C+Express+%7C+React+Native)](https://git.io/typing-svg)
 
@@ -73,5 +73,5 @@ Desenvolvedor Full Stack apaixonado por criar soluções digitais eficientes e e
 
 
 ---
-![footer](https://capsule-render.vercel.app/api?type=shark&height=150&color=0%3A464A70%2C50%3ABD613C%2C100%3A9B5E46&section=footer&reversal=false&strokeWidth=1)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=0%3A464A70%2C50%3ABD613C%2C100%3A9B5E46&section=footer&reversal=false&strokeWidth=1)
 </div>
