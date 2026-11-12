@@ -79,7 +79,7 @@ Hoje, aplico essa experiência para aprender Desenvolvimento Full Stack, o que a
 - **Backend**: APIs RESTful com Node.js, PHP/Laravel e Python
 - **Banco de Dados**: Modelagem e otimização com PostgreSQL, MySQL, MongoDB
 - **Automações**: Fluxos de trabalho inteligentes com n8n
-- **Suporte Técnico N2/N3**: Diagnóstico e resolução de incidentes, documentação técnica
+- **Suporte Técnico N2/N3**: Análise e resolução de incidentes, troubleshooting em sistemas ERP, diagnóstico de bugs, análise de dados e otimização de consultas SQL.
 
 <!-- ESPAÇO RESERVADO PARA GIF OU SVG ANIMADO -->
 
