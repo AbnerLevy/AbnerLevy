@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=TypeScript+%7C+JavaScript+%7C+Angular;Python+%7C+SQL+%7C+MongoDB+%7C+PostgreSQL;Node.js+%7C+Express+%7C+React+Native" alt="Tecnologias"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=TypeScript+%7C+JavaScript+%7C+Angular;Python+%7C+SQL+%7C+PostgreSQL+%7C+MongoDB;Node.js+%7C+Express+%7C+React+Native" alt="Tecnologias"/>
 
 </div>
 
@@ -14,11 +14,11 @@
 
 ## Sobre mim
 
-Desenvolvedor Full Stack apaixonado por criar soluções digitais eficientes e escaláveis. Transformo ideias em aplicações funcionais que resolvem problemas reais. Com mais de 10 anos de experiência em Suporte de TI, atualmente atuo com suporte técnico N2/N3, estou em transição para o Desenvolvimento de Software. Ao longo da minha carreira, trabalhei resolvendo problemas técnicos, prestando suporte a usuários e mantendo ambientes de TI.
+Sou profissional de TI com mais de 10 anos de experiência em suporte técnico, análise de sistemas, infraestrutura e sustentação de aplicações ERP. Atualmente, curso Análise e Desenvolvimento de Sistemas e direciono minha carreira para o desenvolvimento de software, com foco em aplicações Full Stack e Backend.
 
-Hoje, aplico essa experiência para aprender Desenvolvimento Full Stack, o que agrega profundidade na análise, diagnóstico e documentação das soluções que desenvolvo.
+Minha experiência profissional vai além do atendimento técnico: envolve investigação de bugs em produção, análise de bancos de dados SQL, parametrização de sistemas e colaboração com equipes de engenharia na identificação de falhas e melhorias de software.
 
-<!-- ESPAÇO RESERVADO PARA GIF OU SVG ANIMADO -->
+Essa trajetória me proporciona uma visão prática dos problemas enfrentados por usuários e empresas, que busco aplicar no desenvolvimento de soluções funcionais, eficientes e sustentáveis.
 
 ---
 
@@ -32,9 +32,9 @@ Hoje, aplico essa experiência para aprender Desenvolvimento Full Stack, o que a
 <img src="https://img.shields.io/badge/Express.js-444444?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 </div>
 
@@ -45,8 +45,8 @@ Hoje, aplico essa experiência para aprender Desenvolvimento Full Stack, o que a
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-444444?style=flat-square&logo=nextdotjs&logoColor=white"/>
 
@@ -59,6 +59,7 @@ Hoje, aplico essa experiência para aprender Desenvolvimento Full Stack, o que a
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 
 </div>
 
@@ -75,13 +76,11 @@ Hoje, aplico essa experiência para aprender Desenvolvimento Full Stack, o que a
 
 ## O que eu faço
 
-- **Desenvolvimento Full Stack**: Sites e aplicações web com Node.js, JavaScript, PHP/Laravel, React e Next.js
-- **Backend**: APIs RESTful com Node.js, PHP/Laravel e Python
-- **Banco de Dados**: Modelagem e otimização com PostgreSQL, MySQL, MongoDB
-- **Automações**: Fluxos de trabalho inteligentes com n8n
-- **Suporte Técnico N2/N3**: Análise e resolução de incidentes, troubleshooting em sistemas ERP, diagnóstico de bugs, análise de dados e otimização de consultas SQL.
-
-<!-- ESPAÇO RESERVADO PARA GIF OU SVG ANIMADO -->
+- **Desenvolvimento Full Stack**: Desenvolvimento de aplicações web e soluções digitais utilizando JavaScript, TypeScript e tecnologias modernas.
+- **Backend & APIs**: Construção de APIs RESTful, integração de sistemas e implementação de regras de negócio.
+- **Banco de Dados**: Modelagem, consultas SQL, análise de dados e otimização de operações.
+- **Automações**: Integração de sistemas e automação de processos com n8n.
+- **Suporte Técnico N2/N3**: Diagnóstico de incidentes complexos, análise de bugs em sistemas ERP, troubleshooting SQL e investigação de causas raiz.
 
 ---
 
@@ -89,11 +88,19 @@ Hoje, aplico essa experiência para aprender Desenvolvimento Full Stack, o que a
 
 <div align="center">
 
-**Análise e desenvolvimento de sistemas**
+**Análise e Desenvolvimento de Sistemas**
 
 Faculdade SENAC Pernambuco
 
-Conclusão em 2028
+2026 – 2028
+
+<br/>
+
+**Técnico em Programação de Software e Jogos Digitais**
+
+UNINABUCO
+
+Concluído em 2015
 
 </div>
 
@@ -104,10 +111,10 @@ Conclusão em 2028
 <div align="center">
 
 <a href="https://www.linkedin.com/in/abnerlevy/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:abner_levy@hotmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
